@@ -1,2 +1,7 @@
-# Pharma-Assistant
-🚀 Pharma Assistant – AI-Powered Prescription &amp; Diagnostic Tool AI tool that extracts text from handwritten prescriptions, analyzes medical images, and predicts diseases. Built with Python, OpenCV, Tesseract &amp; Flask.  ✅ OCR-based text extraction ✅ AI-powered medical image analysis ✅ Disease prediction  🔗 Details in README
+# Pharma Assistant
+
+## Overview
+This project is an AI-powered diagnostic assistant that analyzes medical data to assist healthcare professionals.
+
+## Setup
+1. Install dependencies:

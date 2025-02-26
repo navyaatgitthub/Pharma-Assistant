@@ -1,0 +1,4 @@
+Symptoms: fever cough difficulty breathing
+Predicted Disease: Covid-19
+Suggested Treatment: Rest, hydration, fever reducers, consult a doctor if symptoms worsen.
+--------------------------------------------------
